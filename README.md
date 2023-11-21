@@ -4,7 +4,7 @@
 <img align="right" alt="Coading" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhushreeMC&label=Profile%20views&color=0e75b6&style=flat" alt="madhushreeMC" /> </p>
 
-- 🔭 I’m completed Cource on **JAVA FULL STACK DEVELOPEMENT**
+- 🔭 I’m completed Cource on **JAVA FULL STACK DEVELOPMENT**
 
 - 🌱 I’m currently learning **AEM Tool**
 
